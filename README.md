@@ -33,11 +33,11 @@ El parámetro trace permite:
 
 Mostrar comparaciones
 
-Mostrar intercambios o desplazamientos
+> Mostrar intercambios o desplazamientos
 
-Imprimir el arreglo en cada iteración
+> Imprimir el arreglo en cada iteración
 
-Visualizar el comportamiento interno del algoritmo
+> Visualizar el comportamiento interno del algoritmo
 
 
 ### BubbleSort con corte temprano
@@ -51,13 +51,13 @@ Esto permite que el algoritmo termine antes cuando el arreglo ya está ordenado,
 
 La clase SortingDemo permite:
 
-Ejecutar los algoritmos con todos los datasets oficiales
+> Ejecutar los algoritmos con todos los datasets oficiales
 
-*Validar resultados*
+> Validar resultados
 
-*Activar trazas si se desea*
+> Activar trazas si se desea
 
-*Facilitar pruebas en consola o IDE*
+> Facilitar pruebas en consola o IDE
 
 ### Cómo Ejecutar el Proyecto
  Compilar
@@ -70,7 +70,7 @@ Desde la raíz del proyecto:
 
 Ejecutar la clase principal:
 
-java -cp src ed.u2.sorting.SortingDemo
+> java -cp src ed.u2.sorting.SortingDemo
 
 
 Esto mostrará:
