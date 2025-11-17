@@ -108,7 +108,7 @@ D → [2, 2, 2, 2]
 E → [1, 2, 8, 9]
 
 
-##Casos Borde Considerados
+## Casos Borde Considerados
 
 Para validar la robustez del proyecto se probaron los siguientes casos borde:
 
