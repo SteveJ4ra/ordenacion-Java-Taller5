@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ordenacion-Java-Taller5.iml" filepath="$PROJECT_DIR$/.idea/ordenacion-Java-Taller5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ordenacion-Java-Taller5.iml" filepath="$PROJECT_DIR$/Ordenacion-Java-Taller5.iml" />
     </modules>
   </component>
 </project>
